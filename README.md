@@ -1,13 +1,9 @@
 # WORLDMAP EDITOR
 
-<!-- ABOUT THE PROJECT --!>
-
 
 --- 
 
-#About The Project
-
-
+## About The Project
 
 https://github.com/houchongchan/worldmap-editor/assets/30061766/86bd9d25-49f5-4dae-9aa5-9bbd60391542
 
